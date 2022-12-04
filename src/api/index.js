@@ -1,6 +1,6 @@
 import axios from "axios"
 
-const URL = "http://127.0.0.1:5000/api/v1"
+const URL = "https://2022react-fastapi-railway.up.railway.app/api/v1"
 
 export const getCardById = async ({ queryKey }) => {
   const [cardId] = queryKey;
