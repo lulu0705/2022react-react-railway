@@ -4,7 +4,7 @@ import AppHeader from "../components/Header";
 import ProductList from "../components/ProductList";
 import AppFooter from "../components/Footer";
 // import products from "../json/products.json";
-import cards from "../json/card.json";
+// import cards from "../json/card.json";
 import NavBar from "../components/NavBar";
 // import HamMenu from "../components/HamMenu";
 import { useCards } from '../react-query';
